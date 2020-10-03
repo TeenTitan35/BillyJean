@@ -1,0 +1,10 @@
+C:\Users\adosp\source\repos\SoundplayerTutor\SoundplayerTutor\bin\Debug\SoundplayerTutor.exe.config
+C:\Users\adosp\source\repos\SoundplayerTutor\SoundplayerTutor\bin\Debug\SoundplayerTutor.exe
+C:\Users\adosp\source\repos\SoundplayerTutor\SoundplayerTutor\bin\Debug\SoundplayerTutor.pdb
+C:\Users\adosp\source\repos\SoundplayerTutor\SoundplayerTutor\obj\Debug\SoundplayerTutor.csprojAssemblyReference.cache
+C:\Users\adosp\source\repos\SoundplayerTutor\SoundplayerTutor\obj\Debug\SoundplayerTutor.Form1.resources
+C:\Users\adosp\source\repos\SoundplayerTutor\SoundplayerTutor\obj\Debug\SoundplayerTutor.Properties.Resources.resources
+C:\Users\adosp\source\repos\SoundplayerTutor\SoundplayerTutor\obj\Debug\SoundplayerTutor.csproj.GenerateResource.cache
+C:\Users\adosp\source\repos\SoundplayerTutor\SoundplayerTutor\obj\Debug\SoundplayerTutor.csproj.CoreCompileInputs.cache
+C:\Users\adosp\source\repos\SoundplayerTutor\SoundplayerTutor\obj\Debug\SoundplayerTutor.exe
+C:\Users\adosp\source\repos\SoundplayerTutor\SoundplayerTutor\obj\Debug\SoundplayerTutor.pdb
